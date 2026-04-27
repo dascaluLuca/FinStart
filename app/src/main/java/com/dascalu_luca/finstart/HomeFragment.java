@@ -33,7 +33,6 @@ public class HomeFragment extends Fragment {
             TextView tvCategory = view.findViewById(R.id.tv_featured_category);
             TextView tvTitle = view.findViewById(R.id.tv_featured_title);
             TextView tvSummary = view.findViewById(R.id.tv_featured_summary);
-            CardView btnRead = view.findViewById(R.id.btn_read_featured);
 
             tvCategory.setText(featured.getCategory());
             tvTitle.setText(featured.getTitle());
