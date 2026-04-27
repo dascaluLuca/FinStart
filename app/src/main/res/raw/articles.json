@@ -1,0 +1,59 @@
+{
+  "quotes": [
+    "Cel mai bun moment să investești a fost acum 10 ani. Al doilea cel mai bun moment e acum.",
+    "Nu e vorba cât câștigi, ci cât păstrezi.",
+    "Inflația e impozitul pe cei care nu investesc.",
+    "Investițiile mici făcute constant bat investițiile mari făcute ocazional.",
+    "Educația financiară e cel mai bun randament pe care îl poți obține."
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "title": "Ce este un ETF și de ce contează pentru tine",
+      "summary": "Cel mai simplu mod prin care un începător poate investi diversificat cu costuri minime.",
+      "content": "Un ETF (Exchange-Traded Fund) este un fond de investiții tranzacționat la bursă, exact ca o acțiune obișnuită.\n\nPractic, când cumperi un ETF, cumperi simultan o bucată mică din sute sau mii de companii. De exemplu, un ETF pe indicele S&P 500 îți oferă expunere la cele mai mari 500 de companii americane dintr-o singură tranzacție.\n\nDe ce sunt ETF-urile ideale pentru începători?\n\n1. Diversificare automată - nu depinzi de succesul unei singure companii\n2. Costuri mici - comisioanele anuale sunt de obicei sub 0.2%\n3. Simplitate - cumperi și uiți, nu trebuie să urmărești zilnic\n4. Lichiditate - poți vinde oricând în timpul orelor de tranzacționare\n\nCum alegi un ETF bun?\n\nUită-te la TER (Total Expense Ratio) - cu cât mai mic, cu atât mai bine. Un TER de 0.07% înseamnă că plătești 70 de cenți pe an pentru fiecare 1000 de lei investiți.\n\nExemple populare în România: Amundi Prime All World (WEBN) cu TER 0.07%, iShares Core MSCI World.",
+      "category": "Investiții",
+      "isFeatured": true
+    },
+    {
+      "id": "2",
+      "title": "Inflația explicată simplu",
+      "summary": "De ce banii tăi valorează mai puțin în fiecare an și ce poți face.",
+      "content": "Inflația este creșterea generală a prețurilor din economie de-a lungul timpului.\n\nDacă acum un an puteai cumpăra o pâine cu 5 lei, iar acum costă 6 lei, asta înseamnă o inflație de 20% pentru pâine.\n\nDe ce există inflația?\n\nBancile centrale (în România, BNR) controlează masa monetară. Când se tipăresc mai mulți bani decât produce economia, fiecare leu existent valorează mai puțin.\n\nCum te afectează pe tine?\n\nDacă ai 10.000 lei la saltea și inflația e 5% pe an, după un an puterea de cumpărare a acelor bani e de doar 9.500 lei în termeni reali. Banii stau, dar valoarea lor scade.\n\nCum te protejezi?\n\n1. Investind în active care cresc peste rată inflației (acțiuni, imobiliare)\n2. Titluri de stat indexate la inflație (FIDELIS în România)\n3. Evitând să ții sume mari de bani cash pe termen lung",
+      "category": "Economie",
+      "isFeatured": false
+    },
+    {
+      "id": "3",
+      "title": "Regula celor 50/30/20",
+      "summary": "Un sistem simplu de bugetare pe care îl poți aplica de mâine.",
+      "content": "Regula 50/30/20 este cel mai popular sistem de bugetare personală din lume, popularizat de senatoarea americană Elizabeth Warren.\n\nCum funcționează?\n\n50% din venitul net → Necesități (chirie, mâncare, utilități, transport)\n30% din venitul net → Dorințe (restaurante, abonamente, vacanțe)\n20% din venitul net → Economii și investiții\n\nExemplu practic:\nDacă câștigi 4000 lei net pe lună:\n- 2000 lei → necesități\n- 1200 lei → dorințe  \n- 800 lei → investiții/economii\n\nDe ce funcționează?\n\nNu e perfectă, dar e simplă. Un sistem simplu pe care îl respecți bate un sistem complex pe care îl abandonezi după o săptămână.\n\nAdaptarea pentru România:\n\nÎn orașe mari precum București, 50% pentru necesități poate fi insuficient din cauza chiriilor. Poți adapta la 60/20/20 sau 55/25/20 în funcție de situația ta.",
+      "category": "Buget personal",
+      "isFeatured": false
+    },
+    {
+      "id": "4",
+      "title": "Ce sunt titlurile de stat și cum le cumperi",
+      "summary": "Cum împrumuți bani statului român și primești dobândă garantată.",
+      "content": "Un titlu de stat este un instrument prin care statul se împrumută de la cetățeni, promițindu-le înapoi suma plus o dobândă fixă.\n\nÎn România există două programe principale:\n\nTEZAUR - disponibil la orice oficiu poștal sau online pe www.tezaur.ro\n- Fără comisioane\n- Dobânzi între 5-7% pe an (variabil)\n- Sume minime mici (1 leu)\n\nFIDELIS - emis periodic prin bănci\n- Dobânzi fixe pe 1, 3 sau 5 ani\n- Tranzacționabil la bursă (poți vinde înainte de scadență)\n\nSunt sigure?\n\nTitlurile de stat sunt garantate de statul român. Riscul teoretic există (default de țară), dar e considerat minim pentru România ca membră UE.\n\nPentru cine sunt potrivite?\n\nIdeal pentru fondul de urgență sau pentru banii pe care știi că ai nevoie în 1-3 ani și nu vrei riscul acțiunilor.",
+      "category": "Investiții",
+      "isFeatured": false
+    },
+    {
+      "id": "5",
+      "title": "Fondul de urgență - primul pas înainte de investiții",
+      "summary": "De ce trebuie să ai bani puși deoparte înainte să investești.",
+      "content": "Înainte să investești orice ban în acțiuni sau ETF-uri, ai nevoie de un fond de urgență.\n\nCe este fondul de urgență?\n\nO sumă de bani lichizi (accesibili imediat) echivalentă cu 3-6 luni de cheltuieli. Dacă cheltuiești 3000 lei pe lună, fondul tău de urgență ar trebui să fie între 9.000 și 18.000 lei.\n\nDe ce e important?\n\nFără fond de urgență, orice urgență (defecțiune mașină, problemă medicală, pierderea jobului) te forțează să vinzi investițiile. Dacă piața e în scădere exact atunci, vinzi pe pierdere.\n\nUnde ții fondul de urgență?\n\n1. Cont de economii cu dobândă (ING, BT, Revolut oferă 3-5%)\n2. Titluri de stat TEZAUR cu scadență scurtă\n\nNiciodată în acțiuni sau ETF-uri - trebuie să fie accesibil imediat și fără risc de scădere.",
+      "category": "Buget personal",
+      "isFeatured": false
+    },
+    {
+      "id": "6",
+      "title": "Cum funcționează dobânda compusă",
+      "summary": "Cel mai puternic concept din finanțe personale, explicat cu exemple.",
+      "content": "Albert Einstein ar fi spus că dobânda compusă este a opta minune a lumii. Adevărat sau nu, e cel mai important concept din investiții.\n\nDobânda simplă vs compusă:\n\nSimplă: 1000 lei la 10% pe an → câștigi 100 lei în fiecare an\nCompusă: 1000 lei la 10% pe an → câștigi 100 lei în primul an, dar în al doilea an câștigi 10% din 1100 lei = 110 lei\n\nPare mic. Dar pe 30 de ani:\n- Dobândă simplă: 1000 lei → 4000 lei\n- Dobândă compusă: 1000 lei → 17.449 lei\n\nRegula lui 72:\n\nÎmparte 72 la rata de randament și afli în câți ani ți se dublează banii.\n72 / 8% = 9 ani pentru dublare\n72 / 10% = 7.2 ani pentru dublare\n\nDe ce contează vârsta?\n\nDacă investești 500 lei/lună de la 20 de ani vs 30 de ani (la același randament de 8%), la 60 de ani vei avea aproximativ dublu față de cel care a început la 30. Zece ani în plus la început fac diferența.",
+      "category": "Economie",
+      "isFeatured": false
+    }
+  ]
+}
