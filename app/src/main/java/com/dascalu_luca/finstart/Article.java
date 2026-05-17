@@ -1,5 +1,7 @@
 package com.dascalu_luca.finstart;
 
+import java.util.List;
+
 public class Article {
     private String id;
     private String title;
@@ -7,6 +9,7 @@ public class Article {
     private String content;
     private String category;
     private boolean isFeatured;
+    private List<Question> questions;
 
     public String getId() { return id; }
     public String getTitle() { return title; }
@@ -14,4 +17,5 @@ public class Article {
     public String getContent() { return content; }
     public String getCategory() { return category; }
     public boolean isFeatured() { return isFeatured; }
+    public List<Question> getQuestions() { return questions; }
 }

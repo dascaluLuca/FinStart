@@ -13,7 +13,27 @@
       "summary": "Cel mai simplu mod prin care un începător poate investi diversificat cu costuri minime.",
       "content": "Un ETF (Exchange-Traded Fund) este un fond de investiții tranzacționat la bursă, exact ca o acțiune obișnuită.\n\nPractic, când cumperi un ETF, cumperi simultan o bucată mică din sute sau mii de companii. De exemplu, un ETF pe indicele S&P 500 îți oferă expunere la cele mai mari 500 de companii americane dintr-o singură tranzacție.\n\nDe ce sunt ETF-urile ideale pentru începători?\n\n1. Diversificare automată - nu depinzi de succesul unei singure companii\n2. Costuri mici - comisioanele anuale sunt de obicei sub 0.2%\n3. Simplitate - cumperi și uiți, nu trebuie să urmărești zilnic\n4. Lichiditate - poți vinde oricând în timpul orelor de tranzacționare\n\nCum alegi un ETF bun?\n\nUită-te la TER (Total Expense Ratio) - cu cât mai mic, cu atât mai bine. Un TER de 0.07% înseamnă că plătești 70 de cenți pe an pentru fiecare 1000 de lei investiți.\n\nExemple populare în România: Amundi Prime All World (WEBN) cu TER 0.07%, iShares Core MSCI World.",
       "category": "Investiții",
-      "isFeatured": true
+      "isFeatured": true,
+      "questions": [
+        {
+          "question": "Ce înseamnă prescurtarea ETF?",
+          "options": ["Exchange-Traded Fund", "Economic Transfer Format", "Equity Trading Fund", "European Tax Framework"],
+          "correctIndex": 0,
+          "explanation": "ETF vine de la Exchange-Traded Fund — un fond de investiții tranzacționat la bursă, exact ca o acțiune obișnuită."
+        },
+        {
+          "question": "Care este principalul avantaj al unui ETF față de o acțiune individuală?",
+          "options": ["Randament garantat", "Diversificare automată în sute de companii", "Nu poate scădea niciodată", "Este scutit de impozite"],
+          "correctIndex": 1,
+          "explanation": "Un ETF îți oferă expunere la sute sau mii de companii simultan, eliminând riscul de a depinde de succesul unei singure companii."
+        },
+        {
+          "question": "Ce reprezintă TER-ul unui ETF?",
+          "options": ["Randamentul anual garantat", "Taxa de tranzacționare per vânzare", "Comisionul anual de administrare", "Timpul de execuție al ordinului"],
+          "correctIndex": 2,
+          "explanation": "TER (Total Expense Ratio) este comisionul anual al ETF-ului. Cu cât e mai mic, cu atât mai bine pentru investitor."
+        }
+      ]
     },
     {
       "id": "2",
@@ -21,7 +41,27 @@
       "summary": "De ce banii tăi valorează mai puțin în fiecare an și ce poți face.",
       "content": "Inflația este creșterea generală a prețurilor din economie de-a lungul timpului.\n\nDacă acum un an puteai cumpăra o pâine cu 5 lei, iar acum costă 6 lei, asta înseamnă o inflație de 20% pentru pâine.\n\nDe ce există inflația?\n\nBăncile centrale controlează masa monetară. Când se tipăresc mai mulți bani decât produce economia, fiecare leu existent valorează mai puțin.\n\nCum te afectează pe tine?\n\nDacă ai 10.000 lei la saltea și inflația e 5% pe an, după un an puterea de cumpărare a acelor bani e de doar 9.500 lei în termeni reali. Banii stau, dar valoarea lor scade.\n\nCum te protejezi?\n\n1. Investind în active care cresc peste rata inflației\n2. Titluri de stat indexate la inflație\n3. Evitând să ții sume mari de bani cash pe termen lung",
       "category": "Economie",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Ce se întâmplă cu puterea de cumpărare a banilor când există inflație?",
+          "options": ["Crește", "Rămâne constantă", "Scade", "Se dublează"],
+          "correctIndex": 2,
+          "explanation": "Inflația erodează puterea de cumpărare. 10.000 lei cu o inflație de 5% valorează efectiv 9.500 lei după un an."
+        },
+        {
+          "question": "Care este una dintre cauzele principale ale inflației?",
+          "options": ["Prea mulți oameni economisesc", "Tipărirea excesivă de bani", "Scăderea prețurilor la import", "Creșterea dobânzilor bancare"],
+          "correctIndex": 1,
+          "explanation": "Când băncile centrale tipăresc mai mulți bani decât produce economia, fiecare unitate monetară valorează mai puțin, cauzând inflație."
+        },
+        {
+          "question": "Care dintre următoarele NU este o metodă de protecție împotriva inflației?",
+          "options": ["Investiții în acțiuni", "Titluri de stat indexate", "Păstrarea banilor cash la saltea", "Imobiliare"],
+          "correctIndex": 2,
+          "explanation": "Banii ținuți cash pierd valoare în timp din cauza inflației. Investițiile în active reale sunt modalitatea de protecție."
+        }
+      ]
     },
     {
       "id": "3",
@@ -29,7 +69,27 @@
       "summary": "Un sistem simplu de bugetare pe care îl poți aplica de mâine.",
       "content": "Regula 50/30/20 este cel mai popular sistem de bugetare personală din lume.\n\nCum funcționează?\n\n50% din venitul net → Necesități (chirie, mâncare, utilități, transport)\n30% din venitul net → Dorințe (restaurante, abonamente, vacanțe)\n20% din venitul net → Economii și investiții\n\nExemplu practic:\nDacă câștigi 4000 lei net pe lună:\n- 2000 lei → necesități\n- 1200 lei → dorințe\n- 800 lei → investiții\n\nDe ce funcționează?\n\nNu e perfectă, dar e simplă. Un sistem simplu pe care îl respecți bate un sistem complex pe care îl abandonezi după o săptămână.\n\nAdaptarea pentru România:\n\nÎn orașe mari precum București, 50% pentru necesități poate fi insuficient din cauza chiriilor. Poți adapta la 60/20/20 în funcție de situația ta.",
       "category": "Buget personal",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "În regula 50/30/20, ce reprezintă cei 20%?",
+          "options": ["Mâncare și utilități", "Distracție și vacanțe", "Economii și investiții", "Transport și chirie"],
+          "correctIndex": 2,
+          "explanation": "Cei 20% sunt dedicați economiilor și investițiilor — banii care lucrează pentru viitorul tău."
+        },
+        {
+          "question": "Dacă câștigi 5000 lei net, cât ar trebui să investești conform regulii 50/30/20?",
+          "options": ["500 lei", "1000 lei", "1500 lei", "2500 lei"],
+          "correctIndex": 1,
+          "explanation": "20% din 5000 lei = 1000 lei pentru economii și investiții."
+        },
+        {
+          "question": "De ce un sistem simplu de bugetare este mai eficient decât unul complex?",
+          "options": ["Pentru că economisești mai mulți bani automat", "Pentru că îl respecți constant pe termen lung", "Pentru că băncile îl recomandă", "Pentru că evită impozitele"],
+          "correctIndex": 1,
+          "explanation": "Consistența bate perfecțiunea. Un sistem simplu pe care îl aplici lunar produce rezultate mult mai bune decât unul complex abandonat rapid."
+        }
+      ]
     },
     {
       "id": "4",
@@ -37,7 +97,27 @@
       "summary": "Cum împrumuți bani statului român și primești dobândă garantată.",
       "content": "Un titlu de stat este un instrument prin care statul se împrumută de la cetățeni, promițindu-le înapoi suma plus o dobândă fixă.\n\nÎn România există două programe principale:\n\nTEZAUR - disponibil la orice oficiu poștal sau online pe tezaur.ro\n- Fără comisioane\n- Dobânzi între 5-7% pe an\n- Sume minime mici (1 leu)\n\nFIDELIS - emis periodic prin bănci\n- Dobânzi fixe pe 1, 3 sau 5 ani\n- Tranzacționabil la bursă\n\nSunt sigure?\n\nTitlurile de stat sunt garantate de statul român. Riscul este considerat minim pentru România ca membră UE.\n\nPentru cine sunt potrivite?\n\nIdeal pentru fondul de urgență sau pentru banii pe care știi că ai nevoie în 1-3 ani și nu vrei riscul acțiunilor.",
       "category": "Investiții",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Unde poți cumpăra titluri de stat TEZAUR?",
+          "options": ["Doar la bancă", "La oficiul poștal sau online pe tezaur.ro", "Doar prin broker", "La supermarket"],
+          "correctIndex": 1,
+          "explanation": "Titlurile TEZAUR sunt disponibile la orice oficiu poștal din România sau online pe platforma tezaur.ro, fără comisioane."
+        },
+        {
+          "question": "Care este suma minimă pentru a investi în titluri TEZAUR?",
+          "options": ["100 lei", "1000 lei", "1 leu", "500 lei"],
+          "correctIndex": 2,
+          "explanation": "Titlurile TEZAUR pot fi cumpărate de la suma minimă de 1 leu, făcându-le accesibile oricui."
+        },
+        {
+          "question": "Pentru ce tip de economii sunt cel mai potrivite titlurile de stat?",
+          "options": ["Investiții pe 30 de ani", "Fondul de urgență sau banii necesari în 1-3 ani", "Speculații pe termen scurt", "Cumpărarea de acțiuni individuale"],
+          "correctIndex": 1,
+          "explanation": "Titlurile de stat sunt ideale pentru banii pe care știi că îi vei folosi în 1-3 ani și nu vrei să îi expui riscului pieței de acțiuni."
+        }
+      ]
     },
     {
       "id": "5",
@@ -45,7 +125,27 @@
       "summary": "De ce trebuie să ai bani puși deoparte înainte să investești.",
       "content": "Înainte să investești orice ban în acțiuni sau ETF-uri, ai nevoie de un fond de urgență.\n\nCe este fondul de urgență?\n\nO sumă de bani lichizi echivalentă cu 3-6 luni de cheltuieli. Dacă cheltuiești 3000 lei pe lună, fondul tău de urgență ar trebui să fie între 9.000 și 18.000 lei.\n\nDe ce e important?\n\nFără fond de urgență, orice urgență te forțează să vinzi investițiile. Dacă piața e în scădere exact atunci, vinzi pe pierdere.\n\nUnde ții fondul de urgență?\n\n1. Cont de economii cu dobândă\n2. Titluri de stat TEZAUR cu scadență scurtă\n\nNiciodată în acțiuni sau ETF-uri - trebuie să fie accesibil imediat și fără risc de scădere.",
       "category": "Buget personal",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Cât de mare ar trebui să fie fondul de urgență?",
+          "options": ["1 lună de cheltuieli", "3-6 luni de cheltuieli", "1 an de cheltuieli", "Exact 10.000 lei"],
+          "correctIndex": 1,
+          "explanation": "Regula general acceptată este 3-6 luni de cheltuieli lunare, oferind suficientă protecție fără a imobiliza prea mulți bani."
+        },
+        {
+          "question": "De ce NU trebuie ținut fondul de urgență în acțiuni sau ETF-uri?",
+          "options": ["Pentru că randamentul e prea mare", "Pentru că poți fi nevoit să vinzi pe pierdere în criză", "Pentru că e ilegal", "Pentru că băncile nu permit"],
+          "correctIndex": 1,
+          "explanation": "În caz de urgență ai nevoie de bani imediat. Dacă piața e în scădere exact atunci, vei vinde investițiile pe pierdere."
+        },
+        {
+          "question": "Dacă cheltuiești 2500 lei pe lună, care este fondul de urgență minim recomandat?",
+          "options": ["2500 lei", "5000 lei", "7500 lei", "25000 lei"],
+          "correctIndex": 2,
+          "explanation": "Minimul recomandat este 3 luni de cheltuieli: 2500 × 3 = 7500 lei."
+        }
+      ]
     },
     {
       "id": "6",
@@ -53,79 +153,279 @@
       "summary": "Cel mai puternic concept din finanțe personale, explicat cu exemple.",
       "content": "Dobânda compusă este cel mai important concept din investiții.\n\nDobânda simplă vs compusă:\n\nSimplă: 1000 lei la 10% pe an → câștigi 100 lei în fiecare an\nCompusă: 1000 lei la 10% pe an → câștigi 100 lei în primul an, dar în al doilea an câștigi 10% din 1100 lei = 110 lei\n\nPe 30 de ani:\n- Dobândă simplă: 1000 lei → 4000 lei\n- Dobândă compusă: 1000 lei → 17.449 lei\n\nRegula lui 72:\n\nÎmparte 72 la rata de randament și afli în câți ani ți se dublează banii.\n72 / 8% = 9 ani pentru dublare\n\nDe ce contează vârsta?\n\nDacă investești 500 lei/lună de la 20 de ani vs 30 de ani, la 60 de ani vei avea aproximativ dublu față de cel care a început la 30. Zece ani în plus la început fac toată diferența.",
       "category": "Economie",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Ce se întâmplă cu dobânda compusă față de cea simplă în timp?",
+          "options": ["Sunt identice", "Dobânda simplă crește mai repede", "Dobânda compusă crește exponențial mai mult", "Depinde de bancă"],
+          "correctIndex": 2,
+          "explanation": "Dobânda compusă crește exponențial pentru că câștigurile sunt reinvestite. Pe 30 de ani, 1000 lei devin 4000 lei cu dobândă simplă, dar 17.449 lei cu dobândă compusă la 10%."
+        },
+        {
+          "question": "Conform regulii lui 72, în câți ani se dublează banii la un randament de 9% pe an?",
+          "options": ["5 ani", "8 ani", "12 ani", "18 ani"],
+          "correctIndex": 1,
+          "explanation": "72 / 9 = 8 ani. Regula lui 72 este o aproximare rapidă pentru a calcula timpul de dublare a capitalului."
+        },
+        {
+          "question": "De ce e important să începi să investești cât mai devreme?",
+          "options": ["Pentru că dobânzile sunt mai mari pentru tineri", "Pentru că dobânda compusă are nevoie de timp să acționeze", "Pentru că ETF-urile se vând mai ieftin tinerilor", "Nu contează când începi"],
+          "correctIndex": 1,
+          "explanation": "Dobânda compusă funcționează în timp. Zece ani în plus la început pot dubla rezultatul final datorită reinvestirii câștigurilor."
+        }
+      ]
     },
     {
       "id": "7",
       "title": "Cum să îți alegi brokerul potrivit în România",
       "summary": "Comparație între platformele disponibile românilor pentru investiții la bursă.",
-      "content": "Un broker este platforma prin care cumperi și vinzi acțiuni sau ETF-uri. Alegerea brokerului e una dintre primele decizii pe care trebuie să o iei.\n\nCe să urmărești?\n\n1. Comisioane - cât plătești per tranzacție\n2. Siguranța fondurilor - e reglementat de o autoritate serioasă?\n3. Instrumente disponibile - poți cumpăra ETF-urile pe care le vrei?\n4. Ușurința platformei - e ușor de folosit pentru un începător?\n\nOpțiuni populare în România:\n\nXTB - reglementat de KNF (Polonia) și FCA (UK). Comision 0% pentru acțiuni și ETF-uri până la 100.000 EUR/lună. Foarte popular printre români.\n\nTradeVille - broker românesc, reglementat de ASF. Acces la BVB (Bursa de Valori București) și burse internaționale.\n\nInteractive Brokers - pentru investitori mai avansați, acces la aproape orice bursă din lume.\n\nSfatul nostru pentru începători:\n\nÎncepe cu XTB sau TradeVille. Sunt reglementate, au interfețe în română și comisioane competitive.",
+      "content": "Un broker este platforma prin care cumperi și vinzi acțiuni sau ETF-uri. Alegerea brokerului e una dintre primele decizii pe care trebuie să o iei.\n\nCe să urmărești?\n\n1. Comisioane - cât plătești per tranzacție\n2. Siguranța fondurilor - e reglementat de o autoritate serioasă?\n3. Instrumente disponibile - poți cumpăra ETF-urile pe care le vrei?\n4. Ușurința platformei - e ușor de folosit pentru un începător?\n\nOpțiuni populare în România:\n\nXTB - reglementat de KNF și FCA. Comision 0% pentru ETF-uri până la 100.000 EUR/lună.\n\nTradeVille - broker românesc, reglementat de ASF. Acces la BVB și burse internaționale.\n\nInteractive Brokers - pentru investitori avansați, acces global.\n\nSfatul nostru pentru începători:\n\nÎncepe cu XTB sau TradeVille. Sunt reglementate, au interfețe accesibile și comisioane competitive.",
       "category": "Investiții",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Ce este un broker?",
+          "options": ["O bancă tradițională", "Platforma prin care cumperi și vinzi acțiuni sau ETF-uri", "Un fond de pensii", "Un tip de ETF"],
+          "correctIndex": 1,
+          "explanation": "Un broker este intermediarul care îți oferă accesul la piețele financiare pentru a cumpăra și vinde instrumente de investiții."
+        },
+        {
+          "question": "Care broker românesc este reglementat de ASF?",
+          "options": ["XTB", "Interactive Brokers", "TradeVille", "Revolut"],
+          "correctIndex": 2,
+          "explanation": "TradeVille este brokerul românesc reglementat de ASF (Autoritatea de Supraveghere Financiară), oferind acces la BVB și burse internaționale."
+        },
+        {
+          "question": "Ce comision percepe XTB pentru ETF-uri până la 100.000 EUR/lună?",
+          "options": ["1%", "0.5%", "0.1%", "0%"],
+          "correctIndex": 3,
+          "explanation": "XTB oferă comision 0% pentru tranzacțiile cu acțiuni și ETF-uri până la valoarea de 100.000 EUR pe lună, făcându-l foarte atractiv pentru începători."
+        }
+      ]
     },
     {
       "id": "8",
       "title": "Acțiuni individuale vs ETF-uri — ce alegi?",
       "summary": "De ce majoritatea experților recomandă ETF-urile față de stock picking.",
-      "content": "Una dintre cele mai comune dileme ale începătorilor: cumpăr acțiuni la Apple și Amazon sau cumpăr un ETF?\n\nCazul pentru acțiuni individuale:\n- Poți câștiga mai mult dacă alegi bine\n- E mai captivant să urmărești companii specifice\n- Poți investi în companii în care crezi\n\nCazul pentru ETF-uri:\n- Diversificare instantă — un ETF mondial conține 3000+ companii\n- Nu depinzi de succesul unei singure companii\n- Costuri mai mici pe termen lung\n- Nu necesită cercetare constantă\n\nCe spun datele?\n\nPeste 90% dintre fondurile gestionate activ de profesioniști nu reușesc să bată un simplu ETF pe indice pe termen lung. Dacă profesioniștii plătiți nu pot face asta constant, șansele unui amator sunt și mai mici.\n\nConcluzia practică:\n\nPentru marea majoritate a investitorilor, mai ales începători, un portofoliu simplu de ETF-uri globale va produce rezultate mai bune decât stock picking-ul, cu mai puțin stres și timp investit.",
+      "content": "Una dintre cele mai comune dileme ale începătorilor: cumpăr acțiuni la Apple și Amazon sau cumpăr un ETF?\n\nCazul pentru acțiuni individuale:\n- Poți câștiga mai mult dacă alegi bine\n- E mai captivant să urmărești companii specifice\n- Poți investi în companii în care crezi\n\nCazul pentru ETF-uri:\n- Diversificare instantă — un ETF mondial conține 3000+ companii\n- Nu depinzi de succesul unei singure companii\n- Costuri mai mici pe termen lung\n- Nu necesită cercetare constantă\n\nCe spun datele?\n\nPeste 90% dintre fondurile gestionate activ de profesioniști nu reușesc să bată un simplu ETF pe indice pe termen lung.\n\nConcluzia practică:\n\nPentru marea majoritate a investitorilor, mai ales începători, un portofoliu simplu de ETF-uri globale va produce rezultate mai bune decât stock picking-ul.",
       "category": "Investiții",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Ce procent din fondurile gestionate activ nu reușesc să bată un ETF pe indice pe termen lung?",
+          "options": ["Peste 30%", "Peste 50%", "Peste 70%", "Peste 90%"],
+          "correctIndex": 3,
+          "explanation": "Studiile arată că peste 90% din fondurile gestionate activ de profesioniști nu reușesc să depășească performanța unui simplu ETF pe indice pe termen lung."
+        },
+        {
+          "question": "Care este principalul dezavantaj al investiției în acțiuni individuale?",
+          "options": ["Randamentul e întotdeauna mai mic", "Dependența de succesul unei singure companii", "Nu pot fi vândute niciodată", "Sunt ilegale în România"],
+          "correctIndex": 1,
+          "explanation": "Investind în acțiuni individuale, soarta banilor tăi depinde de o singură companie. Dacă aceasta eșuează, poți pierde totul."
+        },
+        {
+          "question": "Câte companii conține aproximativ un ETF mondial?",
+          "options": ["10-20", "100-200", "500-600", "3000+"],
+          "correctIndex": 3,
+          "explanation": "Un ETF global precum WEBN conține acțiuni din 3000+ companii din întreaga lume, oferind diversificare instantă și completă."
+        }
+      ]
     },
     {
       "id": "9",
       "title": "Psihologia investitorului — de ce ne sabotăm singuri",
       "summary": "Cele mai comune greșeli emoționale pe care le fac investitorii și cum le eviți.",
-      "content": "Cea mai mare amenințare pentru portofoliul tău nu e piața. Ești tu.\n\nGreșelile emoționale cele mai comune:\n\n1. Panic selling\nPiața scade 20%, îți e frică, vinzi tot. Exact asta fac toți amatorii. Și exact asta înseamnă că vinzi ieftin și pierzi recuperarea inevitabilă.\n\n2. FOMO (Fear Of Missing Out)\nCeva a crescut 300% și cumperi acum, la vârf, de frică să nu ratezi. De obicei, urmează scăderea.\n\n3. Overconfidence\nAi câștigat în primele luni și crezi că ești mai bun decât piața. Urmează o lecție scumpă.\n\n4. Urmărirea obsesivă a portofoliului\nDacă verifici prețurile de zece ori pe zi, emoțiile vor domina deciziile raționale.\n\nSoluția:\n\nAutomatizează investițiile. Stabilește o sumă fixă lunară, cumperi indiferent de ce face piața, și nu te uiți la portofoliu mai mult de o dată pe lună. Această strategie se numește Dollar Cost Averaging și elimină emoțiile din ecuație.",
+      "content": "Cea mai mare amenințare pentru portofoliul tău nu e piața. Ești tu.\n\nGreșelile emoționale cele mai comune:\n\n1. Panic selling\nPiața scade 20%, îți e frică, vinzi tot. Exact asta fac toți amatorii.\n\n2. FOMO (Fear Of Missing Out)\nCeva a crescut 300% și cumperi acum, la vârf, de frică să nu ratezi.\n\n3. Overconfidence\nAi câștigat în primele luni și crezi că ești mai bun decât piața.\n\n4. Urmărirea obsesivă a portofoliului\nDacă verifici prețurile de zece ori pe zi, emoțiile vor domina deciziile raționale.\n\nSoluția:\n\nAutomatizează investițiile. Stabilește o sumă fixă lunară și nu te uiți la portofoliu mai mult de o dată pe lună. Această strategie se numește Dollar Cost Averaging.",
       "category": "Psihologia banilor",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Ce înseamnă panic selling?",
+          "options": ["Cumpărarea de acțiuni în panică", "Vânzarea investițiilor din frică când piața scade", "Investirea prea multor bani dintr-o dată", "Ignorarea portofoliului"],
+          "correctIndex": 1,
+          "explanation": "Panic selling înseamnă să vinzi investițiile când piața scade din cauza fricii, realizând astfel pierderi care altfel ar fi fost temporare."
+        },
+        {
+          "question": "Ce înseamnă FOMO în contextul investițiilor?",
+          "options": ["O strategie de diversificare", "Frica de a rata o oportunitate și cumpărarea la vârf", "Un tip de ETF", "O metodă de economisire"],
+          "correctIndex": 1,
+          "explanation": "FOMO (Fear Of Missing Out) îi determină pe investitori să cumpere active după ce au crescut deja mult, adesea chiar la vârful prețului."
+        },
+        {
+          "question": "Care este soluția recomandată pentru a elimina emoțiile din investiții?",
+          "options": ["Urmărirea zilnică a portofoliului", "Vânzarea când piața scade", "Automatizarea investițiilor cu o sumă fixă lunară", "Investirea doar în companii cunoscute"],
+          "correctIndex": 2,
+          "explanation": "Dollar Cost Averaging — investirea unei sume fixe lunar, indiferent de piață — elimină emoțiile și produce rezultate mai bune pe termen lung."
+        }
+      ]
     },
     {
       "id": "10",
       "title": "Ce este diversificarea și de ce contează",
       "summary": "Nu pune toate ouăle în același coș — explicat pentru investitori.",
-      "content": "Diversificarea este distribuirea banilor între mai multe investiții diferite pentru a reduce riscul.\n\nAnalogii simple:\n\nDacă ai toate economiile în acțiuni la o singură companie și acea companie dă faliment, pierzi tot. Dacă ai acțiuni la 500 de companii și una dă faliment, pierzi 0.2%.\n\nCum diversifici corect?\n\n1. Pe companii — nu concentra mai mult de 5% din portofoliu într-o singură companie\n\n2. Pe sectoare — nu pune totul în tech sau în energie\n\n3. Pe geografii — nu investi doar în România sau doar în SUA\n\n4. Pe clase de active — o combinație de acțiuni și obligațiuni reduce volatilitatea\n\nDiversificarea prin ETF-uri:\n\nUn singur ETF global precum WEBN (Amundi Prime All World) îți oferă automat expunere la 3000+ companii din 23 de țări. E cea mai simplă formă de diversificare pentru un începător.\n\nLimita diversificării:\n\nSupra-diversificarea există și ea. Dacă ai 50 de ETF-uri care acoperă aceleași piețe, nu faci decât să complici lucrurile fără beneficiu real.",
+      "content": "Diversificarea este distribuirea banilor între mai multe investiții diferite pentru a reduce riscul.\n\nCum diversifici corect?\n\n1. Pe companii — nu concentra mai mult de 5% din portofoliu într-o singură companie\n2. Pe sectoare — nu pune totul în tech sau în energie\n3. Pe geografii — nu investi doar în România sau doar în SUA\n4. Pe clase de active — o combinație de acțiuni și obligațiuni reduce volatilitatea\n\nDiversificarea prin ETF-uri:\n\nUn singur ETF global precum WEBN îți oferă automat expunere la 3000+ companii din 23 de țări.\n\nLimita diversificării:\n\nSupra-diversificarea există și ea. Dacă ai 50 de ETF-uri care acoperă aceleași piețe, nu faci decât să complici lucrurile fără beneficiu real.",
       "category": "Investiții",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Care este procentul maxim recomandat dintr-o singură companie în portofoliu?",
+          "options": ["1%", "5%", "25%", "50%"],
+          "correctIndex": 1,
+          "explanation": "Se recomandă să nu concentrezi mai mult de 5% din portofoliu într-o singură companie pentru a limita riscul specific."
+        },
+        {
+          "question": "Ce înseamnă supra-diversificarea?",
+          "options": ["A investi în prea puține companii", "A investi în active din prea multe țări", "A deține prea multe fonduri care acoperă aceleași piețe", "A schimba des portofoliul"],
+          "correctIndex": 2,
+          "explanation": "Supra-diversificarea apare când deții zeci de fonduri care se suprapun, adăugând complexitate fără beneficii reale de reducere a riscului."
+        },
+        {
+          "question": "Pe câte dimensiuni ar trebui să diversifici un portofoliu corect?",
+          "options": ["Doar pe companii", "Pe companii și sectoare", "Pe companii, sectoare și geografii", "Pe companii, sectoare, geografii și clase de active"],
+          "correctIndex": 3,
+          "explanation": "O diversificare completă acoperă toate cele patru dimensiuni: companii, sectoare, geografii și clase de active (acțiuni, obligațiuni etc.)."
+        }
+      ]
     },
     {
       "id": "11",
       "title": "Cum funcționează o criză economică",
       "summary": "Ce cauzează crizele, cum evoluează și ce poți face să te protejezi.",
-      "content": "Crizele economice par imprevizibile, dar urmează de obicei un tipar recognoscibil.\n\nCum se formează o criză:\n\n1. Boom - economia crește, creditele sunt ușor de obținut, toată lumea e optimistă\n2. Supraîncălzire - prețurile activelor depășesc valoarea reală, apare specula\n3. Declanșator - un eveniment (colaps bancar, pandemie, conflict) sparge balonul\n4. Panică - toată lumea vinde simultan, prețurile se prăbușesc\n5. Recesiune - companiile reduc activitatea, șomajul crește\n6. Recuperare - economia își revine treptat\n\nExemple istorice:\n\n2008 - Criza imobiliară americană, declanșată de creditele ipotecare toxice\n2020 - Criza COVID, recuperare record în 6 luni pentru piețele financiare\n\nCe faci tu în criză?\n\nDacă ești investitor pe termen lung cu ETF-uri: nimic. Continui să cumperi lunar. Crizele sunt reduceri temporare la companii bune. Fiecare criză din istorie a fost urmată de noi maxime.",
+      "content": "Crizele economice par imprevizibile, dar urmează de obicei un tipar recognoscibil.\n\nCum se formează o criză:\n\n1. Boom - economia crește, creditele sunt ușor de obținut\n2. Supraîncălzire - prețurile activelor depășesc valoarea reală\n3. Declanșator - un eveniment sparge balonul\n4. Panică - toată lumea vinde simultan\n5. Recesiune - companiile reduc activitatea, șomajul crește\n6. Recuperare - economia își revine treptat\n\nExemple istorice:\n\n2008 - Criza imobiliară americană\n2020 - Criza COVID, recuperare record în 6 luni\n\nCe faci tu în criză?\n\nDacă ești investitor pe termen lung cu ETF-uri: nimic. Continui să cumperi lunar. Fiecare criză din istorie a fost urmată de noi maxime.",
       "category": "Economie",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Care este primul semn al formării unei crize economice?",
+          "options": ["Recesiunea", "Boom-ul economic cu credite ușoare", "Panica generală", "Creșterea șomajului"],
+          "correctIndex": 1,
+          "explanation": "Crizele încep de obicei cu o perioadă de boom în care creditele sunt ușor de obținut și prețurile activelor cresc peste valoarea reală."
+        },
+        {
+          "question": "Ce ar trebui să facă un investitor pe termen lung în ETF-uri în timpul unei crize?",
+          "options": ["Să vândă tot imediat", "Să aștepte și să nu facă nimic sau să continue să cumpere", "Să investească în aur exclusiv", "Să retragă toți banii din piață"],
+          "correctIndex": 1,
+          "explanation": "Fiecare criză din istoria piețelor a fost urmată de noi maxime. Un investitor pe termen lung continuă să cumpere în criză, profitând de prețuri mai mici."
+        },
+        {
+          "question": "Cât a durat recuperarea piețelor după criza COVID din 2020?",
+          "options": ["10 ani", "5 ani", "2 ani", "Aproximativ 6 luni"],
+          "correctIndex": 3,
+          "explanation": "Criza COVID a produs o recuperare record — piețele și-au revenit în aproximativ 6 luni, confirmând că investitorii pe termen lung care au stat calmi au câștigat."
+        }
+      ]
     },
     {
       "id": "12",
       "title": "Impozitarea investițiilor în România",
       "summary": "Ce taxe plătești pe câștigurile din acțiuni și ETF-uri și cum le declari.",
-      "content": "Unul dintre subiectele cel mai puțin discutate dar extrem de importante: taxele pe investiții.\n\nCe impozite se aplică în România?\n\n1. Impozit pe câștig de capital: 10% din profitul realizat la vânzarea acțiunilor sau ETF-urilor\n\n2. Impozit pe dividende: 8% din dividendele primite\n\n3. CASS (contribuție la sănătate): dacă câștigurile depășesc 6 salarii minime brute pe an, plătești 10% CASS pe suma ce depășește pragul\n\nCum declari?\n\nPrin Declarația Unică depusă anual la ANAF, până pe 25 mai pentru anul anterior. Majoritatea brokerilor internaționali îți oferă un raport anual cu toate tranzacțiile.\n\nSfat practic:\n\nDacă folosești un broker românesc precum TradeVille, impozitul pe câștig de capital e reținut automat. La brokeri internaționali (XTB, IBKR), ești responsabil tu să declari și să plătești.\n\nNu evita declararea — penalitățile sunt semnificative.",
+      "content": "Unul dintre subiectele cel mai puțin discutate dar extrem de importante: taxele pe investiții.\n\nCe impozite se aplică în România?\n\n1. Impozit pe câștig de capital: 10% din profitul realizat la vânzare\n2. Impozit pe dividende: 8% din dividendele primite\n3. CASS: dacă câștigurile depășesc 6 salarii minime brute pe an, plătești 10% CASS\n\nCum declari?\n\nPrin Declarația Unică depusă anual la ANAF, până pe 25 mai pentru anul anterior.\n\nSfat practic:\n\nDacă folosești TradeVille, impozitul pe câștig de capital e reținut automat. La brokeri internaționali (XTB, IBKR), ești responsabil tu să declari și să plătești.\n\nNu evita declararea — penalitățile sunt semnificative.",
       "category": "Investiții",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Cât este impozitul pe câștigul de capital din investiții în România?",
+          "options": ["5%", "8%", "10%", "16%"],
+          "correctIndex": 2,
+          "explanation": "În România, impozitul pe câștigul de capital (profitul din vânzarea acțiunilor sau ETF-urilor) este de 10%."
+        },
+        {
+          "question": "Până când trebuie depusă Declarația Unică la ANAF?",
+          "options": ["31 decembrie", "25 mai", "1 ianuarie", "15 martie"],
+          "correctIndex": 1,
+          "explanation": "Declarația Unică pentru veniturile din investiții trebuie depusă până pe 25 mai pentru veniturile din anul anterior."
+        },
+        {
+          "question": "La care broker impozitul pe câștig de capital este reținut automat?",
+          "options": ["XTB", "Interactive Brokers", "TradeVille", "Revolut"],
+          "correctIndex": 2,
+          "explanation": "TradeVille, ca broker românesc, reține automat impozitul pe câștig de capital. La brokeri internaționali ca XTB, responsabilitatea declarării îți aparține."
+        }
+      ]
     },
     {
       "id": "13",
       "title": "Dollar Cost Averaging — investește fără să ghicești piața",
       "summary": "Cea mai simplă strategie de investiții care funcționează pe termen lung.",
-      "content": "Dollar Cost Averaging (DCA) înseamnă să investești o sumă fixă la intervale regulate, indiferent de prețul activului.\n\nExemplu practic:\n\nÎn loc să investești 6000 lei o dată pe an, investești 500 lei în fiecare lună.\n\nLuna 1: ETF costă 100 lei → cumperi 5 unități\nLuna 2: ETF costă 80 lei → cumperi 6.25 unități\nLuna 3: ETF costă 120 lei → cumperi 4.17 unități\n\nRezultat: prețul mediu de achiziție e mai mic decât prețul mediu al pieței.\n\nDe ce funcționează?\n\n1. Elimini emoțiile - nu mai încerci să ghicești când e momentul perfect\n2. Profiți de scăderi - când piața scade, cumperi mai multe unități cu aceeași sumă\n3. Disciplină automată - devii un investitor consistent\n\nCum implementezi în România?\n\nStabilești o zi fixă pe lună (ex: 15 ale lunii) și cumperi aceeași valoare de ETF indiferent de ce face piața. După câteva luni devine un obicei la fel de natural ca plata chiriei.",
+      "content": "Dollar Cost Averaging (DCA) înseamnă să investești o sumă fixă la intervale regulate, indiferent de prețul activului.\n\nExemplu practic:\n\nÎn loc să investești 6000 lei o dată pe an, investești 500 lei în fiecare lună.\n\nLuna 1: ETF costă 100 lei → cumperi 5 unități\nLuna 2: ETF costă 80 lei → cumperi 6.25 unități\nLuna 3: ETF costă 120 lei → cumperi 4.17 unități\n\nRezultat: prețul mediu de achiziție e mai mic decât prețul mediu al pieței.\n\nDe ce funcționează?\n\n1. Elimini emoțiile din decizie\n2. Profiți de scăderi cumpărând mai multe unități\n3. Devii un investitor disciplinat și constant\n\nCum implementezi în România?\n\nStabilești o zi fixă pe lună și cumperi aceeași valoare de ETF indiferent de ce face piața.",
       "category": "Investiții",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Ce înseamnă Dollar Cost Averaging?",
+          "options": ["Investirea tuturor banilor dintr-o dată", "Investirea unei sume fixe la intervale regulate", "Cumpărarea doar când piața scade", "Schimbarea valutei în dolari"],
+          "correctIndex": 1,
+          "explanation": "DCA înseamnă să investești o sumă fixă (ex: 500 lei) în fiecare lună, indiferent de prețul activului, eliminând nevoia de a ghici piața."
+        },
+        {
+          "question": "Care este avantajul DCA când piața scade?",
+          "options": ["Nu există avantaj", "Cumperi mai puține unități", "Cumperi mai multe unități cu aceeași sumă", "Pierzi mai puțin"],
+          "correctIndex": 2,
+          "explanation": "Când prețul scade, aceeași sumă fixă îți permite să cumperi mai multe unități, reducând prețul mediu de achiziție pe termen lung."
+        },
+        {
+          "question": "Cum elimină DCA emoțiile din investiții?",
+          "options": ["Nu le elimină", "Prin investirea automată, nu mai iei decizii bazate pe frică sau lăcomie", "Prin urmărirea zilnică a pieței", "Prin diversificare geografică"],
+          "correctIndex": 1,
+          "explanation": "Prin automatizarea procesului — aceeași sumă, aceeași zi, în fiecare lună — nu mai ești tentat să vinzi din frică sau să cumperi din lăcomie."
+        }
+      ]
     },
     {
       "id": "14",
       "title": "Bursa de Valori București — ce poți cumpăra acasă",
       "summary": "Ghid pentru investițiile pe piața românească de capital.",
-      "content": "BVB (Bursa de Valori București) este piața oficială de capital a României, fondată în 1882 și reînființată în 1995.\n\nCe poți tranzacționa pe BVB?\n\n1. Acțiuni românești - Banca Transilvania, OMV Petrom, Hidroelectrica, BRD și alte companii listate\n\n2. ETF-uri și fonduri - inclusiv unele ETF-uri internaționale listate local\n\n3. Titluri de stat FIDELIS - emise periodic de Ministerul Finanțelor\n\n4. Obligațiuni corporative\n\nIndicele BET:\n\nBET (Bucharest Exchange Trading) urmărește performanța celor mai lichide 20 de companii de pe BVB. E echivalentul românesc al S&P 500.\n\nMerită să investești în acțiuni românești?\n\nRomânia e o piață emergentă cu potențial de creștere, dar și cu riscuri mai mari. Dividendele companiilor românești sunt adesea generoase (5-10% pe an). O abordare echilibrată: 80-90% ETF-uri globale + 10-20% expunere locală.",
+      "content": "BVB (Bursa de Valori București) este piața oficială de capital a României, fondată în 1882 și reînființată în 1995.\n\nCe poți tranzacționa pe BVB?\n\n1. Acțiuni românești - Banca Transilvania, OMV Petrom, Hidroelectrica, BRD\n2. ETF-uri și fonduri listate local\n3. Titluri de stat FIDELIS\n4. Obligațiuni corporative\n\nIndicele BET:\n\nBET urmărește performanța celor mai lichide 20 de companii de pe BVB. E echivalentul românesc al S&P 500.\n\nMerită să investești în acțiuni românești?\n\nRomânia e o piață emergentă cu potențial de creștere. Dividendele companiilor românești sunt adesea generoase (5-10% pe an). O abordare echilibrată: 80-90% ETF-uri globale + 10-20% expunere locală.",
       "category": "Investiții",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Ce urmărește indicele BET de la BVB?",
+          "options": ["Toate companiile listate", "Cele mai mari 500 de companii", "Cele mai lichide 20 de companii", "Doar companiile de stat"],
+          "correctIndex": 2,
+          "explanation": "BET (Bucharest Exchange Trading) urmărește performanța celor mai lichide 20 de companii listate pe BVB, fiind echivalentul românesc al S&P 500."
+        },
+        {
+          "question": "Care este randamentul tipic al dividendelor companiilor românești listate?",
+          "options": ["0.5-1% pe an", "1-2% pe an", "2-3% pe an", "5-10% pe an"],
+          "correctIndex": 3,
+          "explanation": "Companiile românești listate plătesc adesea dividende generoase de 5-10% pe an, semnificativ mai mari decât media europeană."
+        },
+        {
+          "question": "Care este alocarea recomandată pentru expunerea la piața românească?",
+          "options": ["100% acțiuni românești", "50% acțiuni românești, 50% globale", "10-20% expunere locală, restul ETF-uri globale", "0%, piața română e prea riscantă"],
+          "correctIndex": 2,
+          "explanation": "O abordare echilibrată înseamnă 80-90% ETF-uri globale pentru diversificare și 10-20% expunere la piața locală pentru a profita de potențialul de creștere al României."
+        }
+      ]
     },
     {
       "id": "15",
       "title": "Cum îți stabilești obiectivele financiare",
       "summary": "Fără un obiectiv clar, economisești fără direcție. Iată cum să îți faci un plan.",
-      "content": "Banii fără scop tind să dispară. Obiectivele financiare clare transformă economisitul dintr-o corvoadă într-o misiune.\n\nTipuri de obiective financiare:\n\nTermen scurt (sub 1 an):\n- Fondul de urgență\n- Vacanță\n- Un gadget sau cursuri\n\nTermen mediu (1-5 ani):\n- Mașină\n- Avans pentru apartament\n- Studii în străinătate\n\nTermen lung (5+ ani):\n- Libertate financiară\n- Pensie\n- Investiții generatoare de venit pasiv\n\nCum faci obiectivele SMART?\n\nGreșit: Vreau să economisesc bani.\nCorect: Vreau să strâng 10.000 lei pentru fondul de urgență în 12 luni, economisind 833 lei pe lună.\n\nRegula de aur:\n\nSepară conturile pentru fiecare obiectiv. Când banii sunt amestecați, e tentant să îi cheltuiești. Conturi separate cu nume clare (Fond urgență, Vacanță, Investiții) creează o barieră psihologică sănătoasă.",
+      "content": "Banii fără scop tind să dispară. Obiectivele financiare clare transformă economisitul dintr-o corvoadă într-o misiune.\n\nTipuri de obiective financiare:\n\nTermen scurt (sub 1 an): Fond de urgență, vacanță, cursuri\nTermen mediu (1-5 ani): Mașină, avans apartament, studii\nTermen lung (5+ ani): Libertate financiară, pensie, venit pasiv\n\nCum faci obiectivele SMART?\n\nGreșit: Vreau să economisesc bani.\nCorect: Vreau să strâng 10.000 lei pentru fondul de urgență în 12 luni, economisind 833 lei pe lună.\n\nRegula de aur:\n\nSepară conturile pentru fiecare obiectiv. Când banii sunt amestecați, e tentant să îi cheltuiești. Conturi separate cu nume clare creează o barieră psihologică sănătoasă.",
       "category": "Buget personal",
-      "isFeatured": false
+      "isFeatured": false,
+      "questions": [
+        {
+          "question": "Care dintre acestea este un obiectiv financiar SMART corect formulat?",
+          "options": ["Vreau să fiu bogat", "Vreau să economisesc mai mult", "Vreau să strâng 10.000 lei în 12 luni, economisind 833 lei pe lună", "Vreau să investesc la bursă"],
+          "correctIndex": 2,
+          "explanation": "Un obiectiv SMART este Specific, Măsurabil, Achievable (realizabil), Relevant și Time-bound (limitat în timp). Doar varianta cu sumă și termen precis respectă toate criteriile."
+        },
+        {
+          "question": "Un obiectiv de termen lung este cel care se întinde pe:",
+          "options": ["Sub 1 an", "1-2 ani", "1-5 ani", "Peste 5 ani"],
+          "correctIndex": 3,
+          "explanation": "Obiectivele de termen lung depășesc 5 ani și includ lucruri ca libertatea financiară, pensia sau construirea unui portofoliu de investiții."
+        },
+        {
+          "question": "De ce e recomandat să ai conturi separate pentru fiecare obiectiv financiar?",
+          "options": ["Pentru a plăti mai puține comisioane", "Pentru a crea o barieră psihologică și a evita cheltuirea banilor", "Pentru a obține dobânzi mai mari", "Este o cerință legală în România"],
+          "correctIndex": 1,
+          "explanation": "Conturi separate cu nume clare creează o barieră psihologică — e mult mai greu să cheltuiești din contul numit 'Avans apartament' decât dintr-un cont general."
+        }
+      ]
     }
   ]
 }

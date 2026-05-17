@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/quiz_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:id="@+id/layout_question"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:visibility="visible">
+
+        <!-- Progress -->
+        <TextView
+            android:id="@+id/tv_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Întrebarea 1 din 3"
+            android:textSize="13sp"
+            android:textColor="@color/text_secondary"
+            android:layout_marginBottom="8dp"/>
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_marginBottom="24dp"
+            android:progressTint="@color/colorPrimary"
+            android:progressBackgroundTint="#E0E0E0"
+            android:max="100"
+            android:progress="33"/>
+
+        <!-- Întrebarea -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp"
+            app:cardBackgroundColor="@color/colorPrimary">
+
+            <TextView
+                android:id="@+id/tv_question"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:text="Întrebarea apare aici"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:lineSpacingMultiplier="1.4"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Opțiunile de răspuns -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_option_0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="16dp"
+            android:textSize="15sp"
+            android:gravity="start"
+            app:backgroundTint="@color/white"
+            android:textColor="@color/text_primary"
+            app:strokeColor="@color/colorPrimary"
+            app:strokeWidth="1dp"
+            app:cornerRadius="10dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_option_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="16dp"
+            android:textSize="15sp"
+            android:gravity="start"
+            app:backgroundTint="@color/white"
+            android:textColor="@color/text_primary"
+            app:strokeColor="@color/colorPrimary"
+            app:strokeWidth="1dp"
+            app:cornerRadius="10dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_option_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="16dp"
+            android:textSize="15sp"
+            android:gravity="start"
+            app:backgroundTint="@color/white"
+            android:textColor="@color/text_primary"
+            app:strokeColor="@color/colorPrimary"
+            app:strokeWidth="1dp"
+            app:cornerRadius="10dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_option_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:padding="16dp"
+            android:textSize="15sp"
+            android:gravity="start"
+            app:backgroundTint="@color/white"
+            android:textColor="@color/text_primary"
+            app:strokeColor="@color/colorPrimary"
+            app:strokeWidth="1dp"
+            app:cornerRadius="10dp"/>
+
+        <!-- Feedback după răspuns -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_feedback"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:visibility="gone"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="3dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/tv_feedback_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="✅ Corect!"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="6dp"/>
+
+                <TextView
+                    android:id="@+id/tv_feedback_explanation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Explicație"
+                    android:textSize="14sp"
+                    android:textColor="@color/text_primary"
+                    android:lineSpacingMultiplier="1.4"/>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_next"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Următoarea întrebare"
+            android:textSize="16sp"
+            android:visibility="gone"
+            app:backgroundTint="@color/colorPrimary"
+            app:cornerRadius="12dp"/>
+
+    </LinearLayout>
+
+    <!-- Ecran scor final -->
+    <LinearLayout
+        android:id="@+id/layout_result"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="32dp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_score_emoji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🎉"
+            android:textSize="64sp"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/tv_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3 din 3"
+            android:textSize="48sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/tv_score_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Excelent!"
+            android:textSize="20sp"
+            android:textColor="@color/text_primary"
+            android:textAlignment="center"
+            android:layout_marginBottom="40dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_finish"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Înapoi la articol"
+            android:textSize="16sp"
+            app:backgroundTint="@color/colorPrimary"
+            app:cornerRadius="12dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

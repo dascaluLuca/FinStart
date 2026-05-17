@@ -27,6 +27,9 @@
         <activity
             android:name=".ArticleDetailActivity"
             android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".QuizActivity"
+            android:parentActivityName=".ArticleDetailActivity"/>
 
     </application>
 

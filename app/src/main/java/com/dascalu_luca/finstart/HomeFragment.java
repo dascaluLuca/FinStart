@@ -8,7 +8,6 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.cardview.widget.CardView;
 import androidx.fragment.app.Fragment;
 
 public class HomeFragment extends Fragment {
@@ -40,6 +39,7 @@ public class HomeFragment extends Fragment {
 
             view.findViewById(R.id.btn_read_featured).setOnClickListener(v -> {
                 Intent intent = new Intent(getActivity(), ArticleDetailActivity.class);
+                intent.putExtra("id", featured.getId());
                 intent.putExtra("title", featured.getTitle());
                 intent.putExtra("content", featured.getContent());
                 intent.putExtra("category", featured.getCategory());

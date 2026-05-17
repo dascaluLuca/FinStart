@@ -94,4 +94,13 @@ public class DataManager {
         }
         return categories;
     }
+    public List<Question> getQuestionsForArticle(String articleId) {
+        for (Article article : articles) {
+            if (article.getId().equals(articleId)) {
+                return article.getQuestions() != null ?
+                        article.getQuestions() : new ArrayList<>();
+            }
+        }
+        return new ArrayList<>();
+    }
 }
