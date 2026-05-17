@@ -1,7 +1,7 @@
 
 
 ```markdown
-# FinStart — Financial Literacy for Every Romanian
+FinStart — Financial Literacy for Every Romanian
 
 > *"Educația financiară nu e pentru bogați. E pentru toți."*
 
